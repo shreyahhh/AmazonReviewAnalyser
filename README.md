@@ -17,7 +17,7 @@ Finding Latest Review: Identifies the most recent review based on reviewTime.
 Graph Construction: NetworkX library creates a graph of reviews based on cosine similarity calculated by TfidfVectorizer from sklearn, with edges added above a similarity threshold.
 Centrality Measures: Eigenvector centrality, PageRank, and betweenness centrality determine the influence and information flow control of reviews in the graph.
 
-4.Ordered Weighted Averaging (OWA) Scores:
+4. Ordered Weighted Averaging (OWA) Scores:
 Metrics: OWA at least half normalized, OWA at most half normalized, and OWA as many as possible normalized analyze the central tendency and variability of review sentiments.
 Correlation Insights: High correlation between some OWA metrics suggests redundancy, while weak correlation with others indicates unique value.
 
