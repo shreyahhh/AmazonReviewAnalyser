@@ -1,3 +1,5 @@
+201 pdf file: The paper I wrote along with my team on thi sproject which got accepted in Springer Conference.
+
 Objective:
 This project aims to analyze Amazon product reviews to assess the quality of each review using various metrics and methods to gain a comprehensive understanding of customer sentiments.
 
