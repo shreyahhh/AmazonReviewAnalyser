@@ -1,4 +1,4 @@
-#LINK TO THE PUBLISHED PAPER:
+LINK TO THE PUBLISHED PAPER:
 https://link.springer.com/chapter/10.1007/978-981-97-8946-7_24
 
 The attached 201 pdf file is the paper I wrote along with my team on this project which got accepted in Springer Conference.
